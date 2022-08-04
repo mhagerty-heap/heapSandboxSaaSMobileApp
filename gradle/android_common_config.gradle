@@ -23,7 +23,7 @@ android {
     ext {
       heapEnabled = true
       heapAutoInit = true
-      heapEnvId = "527942070" //2356724093  //527942070
+      heapEnvId = "2736659562"
     }
 
 
