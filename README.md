@@ -2,7 +2,7 @@
 
 This is the Heap SaaS Sandbox Android mobile app.  
 
-By default, this app sends data to AppId 527942070.  If you'd like to change this, edit the "heapEnvId" variable within the "android_common_config.gradle" file.  
+By default, this app sends data to AppId 527942070.  If you'd like to change which envId the data gets sent to, edit the "heapEnvId" variable within the "android_common_config.gradle" file.  
 
 ![2022-08-04_10-10-18](https://user-images.githubusercontent.com/100442205/182868229-535ffbf0-f5d3-4d73-a1b8-24c1a42d4dee.png)
 
