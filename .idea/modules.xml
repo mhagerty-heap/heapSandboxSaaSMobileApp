@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adminMobileUi.iml" filepath="$PROJECT_DIR$/.idea/modules/adminMobileUi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bottomsheets/adminMobileUi.bottomsheets.iml" filepath="$PROJECT_DIR$/.idea/modules/bottomsheets/adminMobileUi.bottomsheets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bottomsheets/adminMobileUi.bottomsheets.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/bottomsheets/adminMobileUi.bottomsheets.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bottomsheets/adminMobileUi.bottomsheets.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bottomsheets/adminMobileUi.bottomsheets.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bottomsheets/adminMobileUi.bottomsheets.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/bottomsheets/adminMobileUi.bottomsheets.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/color/adminMobileUi.color.iml" filepath="$PROJECT_DIR$/.idea/modules/color/adminMobileUi.color.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/color/adminMobileUi.color.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/color/adminMobileUi.color.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/color/adminMobileUi.color.main.iml" filepath="$PROJECT_DIR$/.idea/modules/color/adminMobileUi.color.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/color/adminMobileUi.color.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/color/adminMobileUi.color.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/adminMobileUi.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/adminMobileUi.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/adminMobileUi.core.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/adminMobileUi.core.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/adminMobileUi.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/adminMobileUi.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/adminMobileUi.core.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/adminMobileUi.core.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datetime/adminMobileUi.datetime.iml" filepath="$PROJECT_DIR$/.idea/modules/datetime/adminMobileUi.datetime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datetime/adminMobileUi.datetime.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/datetime/adminMobileUi.datetime.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datetime/adminMobileUi.datetime.main.iml" filepath="$PROJECT_DIR$/.idea/modules/datetime/adminMobileUi.datetime.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datetime/adminMobileUi.datetime.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/datetime/adminMobileUi.datetime.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/files/adminMobileUi.files.iml" filepath="$PROJECT_DIR$/.idea/modules/files/adminMobileUi.files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/files/adminMobileUi.files.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/files/adminMobileUi.files.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/files/adminMobileUi.files.main.iml" filepath="$PROJECT_DIR$/.idea/modules/files/adminMobileUi.files.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/files/adminMobileUi.files.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/files/adminMobileUi.files.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/input/adminMobileUi.input.iml" filepath="$PROJECT_DIR$/.idea/modules/input/adminMobileUi.input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/input/adminMobileUi.input.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/input/adminMobileUi.input.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/input/adminMobileUi.input.main.iml" filepath="$PROJECT_DIR$/.idea/modules/input/adminMobileUi.input.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/input/adminMobileUi.input.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/input/adminMobileUi.input.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lifecycle/adminMobileUi.lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/lifecycle/adminMobileUi.lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lifecycle/adminMobileUi.lifecycle.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lifecycle/adminMobileUi.lifecycle.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lifecycle/adminMobileUi.lifecycle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lifecycle/adminMobileUi.lifecycle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lifecycle/adminMobileUi.lifecycle.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lifecycle/adminMobileUi.lifecycle.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/adminMobileUi.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/adminMobileUi.sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/adminMobileUi.sample.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/adminMobileUi.sample.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/adminMobileUi.sample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/adminMobileUi.sample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/adminMobileUi.sample.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/adminMobileUi.sample.unitTest.iml" />
+    </modules>
+  </component>
+</project>

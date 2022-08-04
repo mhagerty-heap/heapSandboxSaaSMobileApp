@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.heapanalytics.android:heap-android-client:1.10.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d9a7a3c49094f70acda0d0bd040400a2/transformed/heap-android-client-1.10.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d9a7a3c49094f70acda0d0bd040400a2/transformed/heap-android-client-1.10.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d9a7a3c49094f70acda0d0bd040400a2/transformed/heap-android-client-1.10.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.heapanalytics.android/heap-android-client/1.10.4/a9beeba6005a6fe192873af3fca6dab51d279ce6/heap-android-client-1.10.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.heapanalytics.android/heap-android-client/1.10.4/a9beeba6005a6fe192873af3fca6dab51d279ce6/heap-android-client-1.10.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
